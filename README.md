@@ -13,15 +13,6 @@ Full Screen Mode
 -open the conf.lua file with textbox 
 -find the t.window.fullscreen in the conf function and set it to true  
 
-Screen shoots 
- 
-
- 
-
-
-
-
-
 Youtube Video
 https://youtu.be/QWvYgmt7x0U   
 
